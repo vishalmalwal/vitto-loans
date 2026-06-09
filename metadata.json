@@ -1,0 +1,6 @@
+{
+  "name": "Vitto Loans",
+  "description": "A precision-engineered modern full-stack loan application and agent decision portal with glassmorphism visual designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
